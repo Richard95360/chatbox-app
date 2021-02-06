@@ -4,8 +4,6 @@
   "private": true,
   "homepage":"https://Richard95360.github.io/chatbox-app",
   "dependencies": {
-    "firebase": "^5.5.1",
-    "gh-pages": "^3.1.0",
     "prop-types": "^15.6.2",
     "re-base": "^4.0.0",
     "react": "^16.5.2",
