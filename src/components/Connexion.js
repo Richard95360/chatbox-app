@@ -32,7 +32,6 @@ class componentName extends Component {
                     <button type="submit">GO</button>
                 </form>
 
-
             </div>
         )
     }
